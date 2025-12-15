@@ -1,1 +1,6 @@
 
+id,tema,texto
+1,login,"O login é feito por e-mail e senha no site, usando o formulário de acesso."
+2,senha,"Para recuperar a senha, clique em 'Esqueci minha senha' na tela de login."
+3,cancelamento,"Nossa política de cancelamento permite reembolso total em até 7 dias."
+4,atendimento,"O suporte está disponível via chat ou e-mail 24h."
